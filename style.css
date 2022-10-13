@@ -1,0 +1,11 @@
+body {
+    background-image: url("./assets/images/snowmountain.jpeg");
+    background-repeat: no-repeat,repeat;
+    background-color: #cccccc;
+}
+div { 
+    background-color: blue;
+}
+.text-center {
+    text-align: center;
+}
